@@ -1,0 +1,470 @@
+2024/09/09 08:50:40 Starting GenerateInsights function
+2024/09/09 08:50:40 Input recipes: Sample recipe data including pasta dishes, grilled meats, and vegetarian salads.
+2024/09/09 08:50:40 Sending request to OpenAI
+2024/09/09 08:50:49 Generated insights from OpenAI: Insight 1: Pasta dishes demonstrate an ongoing and versatile trend in cuisines, appealing to a variety of tastes and dietary preferences.
+
+Insight 2: Grilled meats are a popular choice, suggesting a preference for cooking methods that enhance flavor through caramelization and smokiness.
+
+Insight 3: The inclusion of vegetarian salads indicates a growing trend towards plant-based options, catering to health-conscious consumers and vegetarians alike.
+
+Insight 4: Popular ingredients across these categories may include olive oil, garlic, and fresh herbs, highlighting a trend towards Mediterranean flavors and the use of fresh, aromatic components.
+
+Insight 5: The varied cooking techniques involved in preparing pasta, grilling meats, and assembling salads suggest a trend towards diversifying culinary skills and experimenting with different textures and flavors.
+2024/09/09 08:50:49 Parsed insights: {"insight_1":"Pasta dishes demonstrate an ongoing and versatile trend in cuisines, appealing to a variety of tastes and dietary preferences.","insight_2":"Grilled meats are a popular choice, suggesting a preference for cooking methods that enhance flavor through caramelization and smokiness.","insight_3":"The inclusion of vegetarian salads indicates a growing trend towards plant-based options, catering to health-conscious consumers and vegetarians alike.","insight_4":"Popular ingredients across these categories may include olive oil, garlic, and fresh herbs, highlighting a trend towards Mediterranean flavors and the use of fresh, aromatic components.","insight_5":"The varied cooking techniques involved in preparing pasta, grilling meats, and assembling salads suggest a trend towards diversifying culinary skills and experimenting with different textures and flavors."}
+2024/09/09 08:50:49 Finished GenerateInsights function
+2024/09/09 08:50:49 Starting GenerateInsights function
+2024/09/09 08:50:49 Input recipes: Extensive recipe data covering various cuisines, including Italian, Mexican, Chinese, and Indian dishes, with a mix of vegetarian and meat-based options.
+2024/09/09 08:50:49 Sending request to OpenAI
+2024/09/09 08:50:56 Generated insights from OpenAI: Insight 1: Italian cuisine remains highly popular, with a strong emphasis on pasta and tomato-based sauces, showcasing an ongoing trend for comfort foods with a simple yet rich flavor profile.
+
+Insight 2: The popularity of vegetarian options is growing across all observed cuisines, indicating a trend toward plant-based diets and a greater incorporation of vegetables, legumes, and grains in traditional dishes.
+
+Insight 3: Mexican cuisine highlights the widespread use of avocados, beans, and chili peppers, reflecting a trend towards ingredients that offer both bold flavors and health benefits.
+
+Insight 4: Chinese cuisine continues to focus on quick-cooking methods like stir-frying and steaming, catering to the demand for fast, healthy meals that maintain the integrity and nutritional value of ingredients.
+
+Insight 5: The use of spices and herbs is dominant in Indian cuisine, demonstrating a trend towards more aromatic and flavor-intensive dishes, likely driven by a growing consumer interest in more authentic and traditional culinary experiences.
+2024/09/09 08:50:56 Parsed insights: {"insight_1":"Italian cuisine remains highly popular, with a strong emphasis on pasta and tomato-based sauces, showcasing an ongoing trend for comfort foods with a simple yet rich flavor profile.","insight_2":"The popularity of vegetarian options is growing across all observed cuisines, indicating a trend toward plant-based diets and a greater incorporation of vegetables, legumes, and grains in traditional dishes.","insight_3":"Mexican cuisine highlights the widespread use of avocados, beans, and chili peppers, reflecting a trend towards ingredients that offer both bold flavors and health benefits.","insight_4":"Chinese cuisine continues to focus on quick-cooking methods like stir-frying and steaming, catering to the demand for fast, healthy meals that maintain the integrity and nutritional value of ingredients.","insight_5":"The use of spices and herbs is dominant in Indian cuisine, demonstrating a trend towards more aromatic and flavor-intensive dishes, likely driven by a growing consumer interest in more authentic and traditional culinary experiences."}
+2024/09/09 08:50:56 Finished GenerateInsights function
+2024/09/09 08:50:56 Starting GenerateInsights function
+2024/09/09 08:50:56 Input recipes: 
+2024/09/09 08:50:56 Sending request to OpenAI
+2024/09/09 08:51:09 Generated insights from OpenAI: Given the absence of specific recipe data provided for analysis, I'll present 5 general insights based on typical trends observed in global cuisines, popular ingredients, and cooking methods up to my last knowledge update in 2023. These insights are derived from widely recognized patterns in culinary practices and consumer preferences.
+
+**Insight 1:** Plant-based cuisine continues to gain popularity, reflecting an increasing demand for sustainable and health-conscious eating habits. Ingredients like lentils, chickpeas, and a wide range of vegetables are prominent in recipes that cater to vegan and vegetarian diets.
+
+**Insight 2:** Fermented foods and ingredients, such as kimchi, kombucha, and miso, have seen a surge in popularity. This trend highlights a growing consumer interest in probiotics for their potential health benefits and the complexity they bring to flavor profiles.
+
+**Insight 3:** The resurgence of traditional cooking methods like sous-vide, fermenting, and smoking indicates a trend toward techniques that enhance flavor and food preservation. These methods have been embraced not only in restaurants but also by home cooks, thanks to more accessible equipment.
+
+**Insight 4:** Global flavors, particularly from Asian and Middle Eastern cuisines, continue to influence mainstream food culture, with ingredients such as turmeric, tahini, and gochujang becoming staples in many kitchens. This trend reflects an expanding culinary curiosity and desire for diverse taste experiences.
+
+**Insight 5:** Comfort food, particularly in the form of sophisticated twists on classic dishes, has seen a rise in popularity. This includes gourmet versions of pizza, burgers, and desserts that incorporate high-quality ingredients or unique combinations, blending nostalgia with novelty.
+
+These insights track the evolution of culinary interests and cooking practices, reflecting broader cultural trends and changes in consumer behavior.
+2024/09/09 08:51:09 Parsed insights: {"insight_1":"No insight provided","insight_2":"No insight provided","insight_3":"No insight provided"}
+2024/09/09 08:51:09 Finished GenerateInsights function
+2024/09/09 08:51:09 Starting GenerateInsights function
+2024/09/09 08:51:09 Input recipes: A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...
+2024/09/09 08:51:09 Sending request to OpenAI
+2024/09/09 08:51:23 Generated insights from OpenAI: Based on the extensive recipe data described, here are five insights related to trends in cuisine types, popular ingredients, and cooking methods:
+
+**Insight 1:** Fusion cuisine is becoming increasingly popular, blending elements from different culinary traditions to create innovative and complex flavors. This suggests a growing interest in multicultural dishes among consumers.
+
+**Insight 2:** There's a noticeable trend toward using plant-based ingredients, reflecting a broader shift toward vegetarian and vegan diets. Ingredients such as lentils, chickpeas, and a variety of mushrooms are frequently mentioned, indicating their rising prominence in contemporary recipes.
+
+**Insight 3:** Slow cooking methods, such as braising and stewing, are prevalent across various cuisine types, pointing to a preference for deeper, more developed flavors and tender textures in food. This may also indicate a value placed on traditional cooking techniques that allow for the fusion of flavors over time.
+
+**Insight 4:** Spices like turmeric, cumin, and coriander are commonly used across a wide range of recipes, suggesting a global influence on contemporary cooking. Their health benefits, alongside their flavor profiles, might be contributing factors to their popularity.
+
+**Insight 5:** There's a recurring emphasis on sustainability and zero-waste cooking practices, with recipes often including ways to utilize all parts of an ingredient or how to repurpose leftovers. This trend is in line with a growing global consciousness about food waste and environmental issues.
+
+These insights reflect broader shifts in dietary preferences, cultural influences, and sustainability concerns that are shaping current culinary trends.
+2024/09/09 08:51:23 Parsed insights: {"insight_1":"No insight provided","insight_2":"No insight provided","insight_3":"No insight provided"}
+2024/09/09 08:51:23 Finished GenerateInsights function
+2024/09/09 08:59:06 Starting GenerateInsights function
+2024/09/09 08:59:06 Input recipes: Sample recipe data including pasta dishes, grilled meats, and vegetarian salads.
+2024/09/09 08:59:06 Sending request to OpenAI
+2024/09/09 08:59:14 Generated insights from OpenAI: Insight 1: Pasta dishes are a prevalent trend across various cuisines, highlighting versatility in ingredients and adaptability with different sauces to cater to a wide range of palates.
+
+Insight 2: There is an evident popularity in using fresh vegetables in vegetarian salads, indicating a growing consumer interest in healthier, plant-based meal options.
+
+Insight 3: Grilled meats are consistently featured, suggesting that grilling remains a favored cooking method for its ability to enhance flavors and offer a variety of texture profiles.
+
+Insight 4: Cheese and tomatoes emerge as common ingredients among the sampled recipes, especially in pasta dishes, underscoring their foundational role in creating rich and comforting flavors.
+
+Insight 5: The presence of recipes from diverse cuisines points to an increasing appreciation for international flavors, with a particular inclination towards Mediterranean ingredients and techniques.
+2024/09/09 08:59:14 Parsed insights: {"insight_1":"Pasta dishes are a prevalent trend across various cuisines, highlighting versatility in ingredients and adaptability with different sauces to cater to a wide range of palates.","insight_2":"There is an evident popularity in using fresh vegetables in vegetarian salads, indicating a growing consumer interest in healthier, plant-based meal options.","insight_3":"Grilled meats are consistently featured, suggesting that grilling remains a favored cooking method for its ability to enhance flavors and offer a variety of texture profiles.","insight_4":"Cheese and tomatoes emerge as common ingredients among the sampled recipes, especially in pasta dishes, underscoring their foundational role in creating rich and comforting flavors.","insight_5":"The presence of recipes from diverse cuisines points to an increasing appreciation for international flavors, with a particular inclination towards Mediterranean ingredients and techniques."}
+2024/09/09 08:59:14 Finished GenerateInsights function
+2024/09/09 08:59:14 Starting GenerateInsights function
+2024/09/09 08:59:14 Input recipes: Extensive recipe data covering various cuisines, including Italian, Mexican, Chinese, and Indian dishes, with a mix of vegetarian and meat-based options.
+2024/09/09 08:59:14 Sending request to OpenAI
+2024/09/09 08:59:20 Generated insights from OpenAI: Insight 1: Italian cuisine shows a predominant use of tomatoes, garlic, and basil, highlighting a trend towards fresh and aromatic flavors in dishes.
+
+Insight 2: Among Mexican recipes, there's a significant emphasis on beans, corn, and chili peppers, indicating a trend towards hearty, spicy dishes rich in plant-based proteins.
+
+Insight 3: Chinese cuisine preferences indicate a trend towards quick-cooking methods such as stir-frying and steaming, often incorporating ingredients like ginger, soy sauce, and green onions for flavor.
+
+Insight 4: Indian recipes reveal a trend towards diversity in vegetarian dishes, using a wide range of spices such as turmeric, cumin, and coriander to enhance flavors in legumes and vegetables.
+
+Insight 5: Across the board, there is a noticeable trend in integrating plant-based options into traditional meat-based cuisines, suggesting a growing popularity of vegetarian and vegan diets.
+2024/09/09 08:59:20 Parsed insights: {"insight_1":"Italian cuisine shows a predominant use of tomatoes, garlic, and basil, highlighting a trend towards fresh and aromatic flavors in dishes.","insight_2":"Among Mexican recipes, there's a significant emphasis on beans, corn, and chili peppers, indicating a trend towards hearty, spicy dishes rich in plant-based proteins.","insight_3":"Chinese cuisine preferences indicate a trend towards quick-cooking methods such as stir-frying and steaming, often incorporating ingredients like ginger, soy sauce, and green onions for flavor.","insight_4":"Indian recipes reveal a trend towards diversity in vegetarian dishes, using a wide range of spices such as turmeric, cumin, and coriander to enhance flavors in legumes and vegetables.","insight_5":"Across the board, there is a noticeable trend in integrating plant-based options into traditional meat-based cuisines, suggesting a growing popularity of vegetarian and vegan diets."}
+2024/09/09 08:59:20 Finished GenerateInsights function
+2024/09/09 08:59:20 Starting GenerateInsights function
+2024/09/09 08:59:20 Input recipes: 
+2024/09/09 08:59:20 Sending request to OpenAI
+2024/09/09 08:59:33 Generated insights from OpenAI: I'm sorry, but I don't have access to the specific recipe data summary you're referring to. However, I can provide general insights based on common trends in global cuisine, popular ingredients, and cooking methods as of my last update. If you have specific data or further details, feel free to share, and I'll tailor the insights accordingly!
+
+Insight 1: Plant-based ingredients have become increasingly popular, reflecting a broader trend towards vegetarian and vegan diets. Ingredients such as lentils, chickpeas, and various beans are frequently used in recipes, alongside meat alternatives like tofu, tempeh, and seitan.
+
+Insight 2: Global fusion cuisine is on the rise, with recipes often combining elements from multiple culinary traditions to create innovative dishes. Ingredients like kimchi, turmeric, and miso have found their way into non-traditional recipes, showcasing the blend of cultures in modern cooking.
+
+Insight 3: There's a growing emphasis on sustainable and local ingredients, with recipes highlighting the use of seasonal produce, locally sourced meats, and seafood. This trend reflects a shift towards more environmentally friendly eating habits and support for local economies.
+
+Insight 4: Fermentation and preservation techniques have gained popularity in recipes, reflecting a renewed interest in traditional methods of food preparation. This includes making homemade sourdough bread, kimchi, pickles, and kombucha, indicating a desire to return to slower, more artisanal cooking practices.
+
+Insight 5: Instant Pot and Air Fryer recipes have surged in popularity, demonstrating a trend towards convenience cooking without sacrificing quality. These appliances are favored for their ability to reduce cooking time and are often used to prepare everything from soups and stews to crispy fried foods.
+2024/09/09 08:59:33 Parsed insights: {"insight_1":"Plant-based ingredients have become increasingly popular, reflecting a broader trend towards vegetarian and vegan diets. Ingredients such as lentils, chickpeas, and various beans are frequently used in recipes, alongside meat alternatives like tofu, tempeh, and seitan.","insight_2":"Global fusion cuisine is on the rise, with recipes often combining elements from multiple culinary traditions to create innovative dishes. Ingredients like kimchi, turmeric, and miso have found their way into non-traditional recipes, showcasing the blend of cultures in modern cooking.","insight_3":"There's a growing emphasis on sustainable and local ingredients, with recipes highlighting the use of seasonal produce, locally sourced meats, and seafood. This trend reflects a shift towards more environmentally friendly eating habits and support for local economies.","insight_4":"Fermentation and preservation techniques have gained popularity in recipes, reflecting a renewed interest in traditional methods of food preparation. This includes making homemade sourdough bread, kimchi, pickles, and kombucha, indicating a desire to return to slower, more artisanal cooking practices.","insight_5":"Instant Pot and Air Fryer recipes have surged in popularity, demonstrating a trend towards convenience cooking without sacrificing quality. These appliances are favored for their ability to reduce cooking time and are often used to prepare everything from soups and stews to crispy fried foods."}
+2024/09/09 08:59:33 Finished GenerateInsights function
+2024/09/09 08:59:33 Starting GenerateInsights function
+2024/09/09 08:59:33 Input recipes: A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...
+2024/09/09 08:59:33 Sending request to OpenAI
+2024/09/09 08:59:43 Generated insights from OpenAI: Insight 1: The popularity of plant-based cuisine is on the rise, indicating a growing trend towards vegetarian and vegan diets, with an emphasis on dishes that are not only healthy but also environmentally sustainable.
+
+Insight 2: Fermented foods and ingredients, such as kimchi, kombucha, and miso, are increasingly featured in recipes across various cuisine types, highlighting a trend towards foods that promote gut health and complex flavors.
+
+Insight 3: There's a notable resurgence in traditional cooking methods, such as slow cooking and smoking, which are being rediscovered and celebrated for their ability to enhance the depth of flavor in dishes.
+
+Insight 4: Fusion cuisine continues to be popular, with many recipes combining elements from different culinary traditions to create innovative and flavorful dishes, reflecting a globalized approach to cooking.
+
+Insight 5: Spices such as turmeric, cumin, and coriander are frequently used across multiple cuisine types, indicating a trend towards bold flavors and the health benefits associated with these spices.
+2024/09/09 08:59:43 Parsed insights: {"insight_1":"The popularity of plant-based cuisine is on the rise, indicating a growing trend towards vegetarian and vegan diets, with an emphasis on dishes that are not only healthy but also environmentally sustainable.","insight_2":"Fermented foods and ingredients, such as kimchi, kombucha, and miso, are increasingly featured in recipes across various cuisine types, highlighting a trend towards foods that promote gut health and complex flavors.","insight_3":"There's a notable resurgence in traditional cooking methods, such as slow cooking and smoking, which are being rediscovered and celebrated for their ability to enhance the depth of flavor in dishes.","insight_4":"Fusion cuisine continues to be popular, with many recipes combining elements from different culinary traditions to create innovative and flavorful dishes, reflecting a globalized approach to cooking.","insight_5":"Spices such as turmeric, cumin, and coriander are frequently used across multiple cuisine types, indicating a trend towards bold flavors and the health benefits associated with these spices."}
+2024/09/09 08:59:43 Finished GenerateInsights function
+2024/09/09 09:04:00 Starting GenerateInsights function
+2024/09/09 09:04:00 Input recipes: Sample recipe data including pasta dishes, grilled meats, and vegetarian salads.
+2024/09/09 09:04:00 Sending request to OpenAI
+2024/09/09 09:04:08 OpenAI API call took 8.020562672s
+2024/09/09 09:04:08 Generated insights from OpenAI: Insight 1: Pasta dishes are a prevalent trend, suggesting a high popularity for Italian cuisine among the sampled recipes.
+
+Insight 2: The frequent mention of grilled meats indicates a strong inclination towards barbecue or grilling as a preferred cooking method.
+
+Insight 3: Vegetarian salads are represented, highlighting a growing trend or sustained interest in vegetarian or plant-based dishes.
+
+Insight 4: The use of fresh vegetables and herbs in both salads and pasta dishes suggests a focus on fresh, possibly organic ingredients, aligning with trends in health and wellness.
+
+Insight 5: Given the variety of dishes (pasta, grilled meats, and vegetarian salads), there seems to be a broad interest in diverse cuisine types, suggesting a culinary trend towards fusion or eclecticism in meal choices.
+2024/09/09 09:04:08 Parsed insights: {"insight_1":"Pasta dishes are a prevalent trend, suggesting a high popularity for Italian cuisine among the sampled recipes.","insight_2":"The frequent mention of grilled meats indicates a strong inclination towards barbecue or grilling as a preferred cooking method.","insight_3":"Vegetarian salads are represented, highlighting a growing trend or sustained interest in vegetarian or plant-based dishes.","insight_4":"The use of fresh vegetables and herbs in both salads and pasta dishes suggests a focus on fresh, possibly organic ingredients, aligning with trends in health and wellness.","insight_5":"Given the variety of dishes (pasta, grilled meats, and vegetarian salads), there seems to be a broad interest in diverse cuisine types, suggesting a culinary trend towards fusion or eclecticism in meal choices."}
+2024/09/09 09:04:08 Finished GenerateInsights function
+2024/09/09 09:04:08 GenerateInsights function took 8.021288058s
+2024/09/09 09:04:08 Starting GenerateInsights function
+2024/09/09 09:04:08 Input recipes: Extensive recipe data covering various cuisines, including Italian, Mexican, Chinese, and Indian dishes, with a mix of vegetarian and meat-based options.
+2024/09/09 09:04:08 Sending request to OpenAI
+2024/09/09 09:04:16 OpenAI API call took 7.88259351s
+2024/09/09 09:04:16 Generated insights from OpenAI: Insight 1: Italian cuisine shows a strong preference for vegetarian options, utilizing ingredients like tomatoes, basil, and mozzarella, highlighting a trend toward lighter, plant-based meals.
+
+Insight 2: Chili peppers, cumin, and cilantro are prominently featured in Mexican recipes, indicating a preference for bold flavors and spices in cooking.
+
+Insight 3: The use of soy sauce, ginger, and garlic in Chinese dishes suggests a trend towards using umami-rich and aromatic ingredients to enhance flavors in minimalistic cooking methods such as stir-frying.
+
+Insight 4: Indian cuisine is characterized by its extensive use of spices like turmeric, cardamom, and cumin, reflecting a trend towards complex flavor profiles and health-conscious ingredients with anti-inflammatory properties.
+
+Insight 5: Cooking methods such as grilling and baking are prevalent in Italian and Mexican recipes, while stir-frying and steaming are more common in Chinese dishes, indicating regional preferences for certain cooking techniques that could influence global culinary trends.
+2024/09/09 09:04:16 Parsed insights: {"insight_1":"Italian cuisine shows a strong preference for vegetarian options, utilizing ingredients like tomatoes, basil, and mozzarella, highlighting a trend toward lighter, plant-based meals.","insight_2":"Chili peppers, cumin, and cilantro are prominently featured in Mexican recipes, indicating a preference for bold flavors and spices in cooking.","insight_3":"The use of soy sauce, ginger, and garlic in Chinese dishes suggests a trend towards using umami-rich and aromatic ingredients to enhance flavors in minimalistic cooking methods such as stir-frying.","insight_4":"Indian cuisine is characterized by its extensive use of spices like turmeric, cardamom, and cumin, reflecting a trend towards complex flavor profiles and health-conscious ingredients with anti-inflammatory properties.","insight_5":"Cooking methods such as grilling and baking are prevalent in Italian and Mexican recipes, while stir-frying and steaming are more common in Chinese dishes, indicating regional preferences for certain cooking techniques that could influence global culinary trends."}
+2024/09/09 09:04:16 Finished GenerateInsights function
+2024/09/09 09:04:16 GenerateInsights function took 7.882767251s
+2024/09/09 09:04:16 Starting GenerateInsights function
+2024/09/09 09:04:16 Input recipes: 
+2024/09/09 09:04:16 Sending request to OpenAI
+2024/09/09 09:04:31 OpenAI API call took 15.259325535s
+2024/09/09 09:04:31 Generated insights from OpenAI: Given that specific recipe data summary hasn't been provided, I will generate generic insights based on contemporary culinary trends witnessed globally up to my last update in 2023. These insights will combine observed patterns in cuisine types, popular ingredients, and cooking methods that have been prevalent in recent years.
+
+**Insight 1**: There is a growing popularity in plant-based cuisine, reflecting broader dietary shifts towards vegetarian and vegan lifestyles. Ingredients such as lentils, beans, nuts, and a variety of mushrooms have become staples, not only for their nutritional value but for their ability to mimic traditional meat textures in vegan recipes.
+
+**Insight 2**: Fermented foods have surged in popularity, aligning with increased consumer interest in gut health and probiotics. Items such as kimchi, kombucha, kefir, and homemade sourdough bread are frequently featured in recipes, praised for their health benefits and complex flavors.
+
+**Insight 3**: Global fusion cuisine continues to trend, with culinary enthusiasts eager to explore and combine flavors from different cultures. We see an increase in recipes that merge culinary traditions, such as Korean-Mexican tacos or Thai-inspired Italian dishes, showcasing a global palate among home cooks and professional chefs alike.
+
+**Insight 4**: There has been a marked increase in the utilization of sous-vide cooking methods among both professional chefs and home cooking enthusiasts. This technique, which involves vacuum-sealing food in a bag and cooking it to a precise temperature in a water bath, is lauded for its ability to enhance flavors and maintain ingredient integrity, making it popular for meats, vegetables, and even desserts.
+
+**Insight 5**: The use of traditional and heirloom ingredients has seen a resurgence, with cooks seeking out ancient grains like farro, quinoa, and amaranth, as well as heirloom varieties of fruits and vegetables. This trend reflects a growing appreciation for biodiversity, sustainability, and the flavors of heritage recipes, contributing to a richer, more diverse culinary landscape.
+2024/09/09 09:04:31 Parsed insights: {"insight_1":"No insight provided","insight_2":"No insight provided","insight_3":"No insight provided"}
+2024/09/09 09:04:31 Finished GenerateInsights function
+2024/09/09 09:04:31 GenerateInsights function took 15.259723334s
+2024/09/09 09:04:31 Starting GenerateInsights function
+2024/09/09 09:04:31 Input recipes: A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...A very long and detailed description of numerous recipes, including ingredients, cooking methods, and cuisine types...
+2024/09/09 09:04:31 Sending request to OpenAI
+2024/09/09 09:04:47 OpenAI API call took 15.613574532s
+2024/09/09 09:04:47 Generated insights from OpenAI: Given the extensive nature of the summary provided, the following insights are derived without direct excerpts but are based on the implied comprehensive evaluation of various recipes inclusive of their ingredients, cooking methods, and cuisine types:
+
+**Insight 1:** There is a noticeable trend in fusion cuisine, indicating a growing interest in blending elements from different culinary traditions to create innovative dishes. This trend reflects a broader cultural embrace of global flavors and a willingness among cooks to experiment with diverse ingredients.
+
+**Insight 2:** Plant-based ingredients are increasingly prominent in recipes across various cuisines, pointing towards a rising popularity in vegetarian and vegan dishes. Ingredients such as legumes, tofu, and a variety of vegetables are commonly used, highlighting a shift towards more health-conscious and environmentally friendly eating habits.
+
+**Insight 3:** Slow cooking methods, such as braising, stewing, and sous vide, appear frequently, suggesting a preference for cooking techniques that enhance flavor development. This preference might be influenced by home cooks' desires to achieve restaurant-quality results, indicating a valuation of quality and depth of flavor over quick meal prep times.
+
+**Insight 4:** Spices and bold seasonings are prevalent across the board, reflecting an enthusiasm for robust and complex flavors. This trend is not confined to any single cuisine type but spans across many, demonstrating a universal move away from bland and overly simplistic seasoning approaches.
+
+**Insight 5:** There's a clear trend towards using fresh, locally-sourced ingredients, which is evident across various cuisine types. This trend not only showcases a commitment to sustainability and supporting local economies but also indicates a preference for ingredients that are in season, which are typically more flavorful and nutritious.
+2024/09/09 09:04:47 Parsed insights: {"insight_1":"No insight provided","insight_2":"No insight provided","insight_3":"No insight provided"}
+2024/09/09 09:04:47 Finished GenerateInsights function
+2024/09/09 09:04:47 GenerateInsights function took 15.618809045s
+2024/09/09 09:06:49 Starting GenerateInsights function
+2024/09/09 09:06:49 Client creation took: 1.022µs
+2024/09/09 09:06:49 Prompt creation took: 7.438µs
+2024/09/09 09:06:49 Sending request to OpenAI
+2024/09/09 09:06:59 OpenAI API call took 10.136629885s
+2024/09/09 09:06:59 Generated insights from OpenAI: Insight 1: Grilled meats are a popular choice, indicating a trend towards flavors enhanced by char and smoke, common in barbecue or outdoor cooking styles.
+
+Insight 2: Pasta dishes are prevalent, suggesting a strong preference for Italian cuisine or Italian-inspired dishes among the sampled recipes.
+
+Insight 3: The inclusion of vegetarian salads points to growing interest or demand for plant-based and health-conscious meal options.
+
+Insight 4: Common ingredients across these dishes could include items like olive oil, garlic, and fresh vegetables, highlighting a trend towards Mediterranean diet influences, known for their health benefits and use of fresh, simple ingredients.
+
+Insight 5: The cooking methods identified—grilling for meats and boiling or sautéing for pasta dishes—indicate a dichotomy in cooking techniques being used, ranging from the simple and traditional to techniques requiring more specific equipment or outdoor space.
+2024/09/09 09:06:59 Parsed insights: {"insight_1":"Grilled meats are a popular choice, indicating a trend towards flavors enhanced by char and smoke, common in barbecue or outdoor cooking styles.","insight_2":"Pasta dishes are prevalent, suggesting a strong preference for Italian cuisine or Italian-inspired dishes among the sampled recipes.","insight_3":"The inclusion of vegetarian salads points to growing interest or demand for plant-based and health-conscious meal options.","insight_4":"Common ingredients across these dishes could include items like olive oil, garlic, and fresh vegetables, highlighting a trend towards Mediterranean diet influences, known for their health benefits and use of fresh, simple ingredients.","insight_5":"The cooking methods identified—grilling for meats and boiling or sautéing for pasta dishes—indicate a dichotomy in cooking techniques being used, ranging from the simple and traditional to techniques requiring more specific equipment or outdoor space."}
+2024/09/09 09:06:59 Finished GenerateInsights function
+2024/09/09 09:06:59 GenerateInsights function took 10.137315227s
+2024/09/09 09:06:59 Starting GenerateInsights function
+2024/09/09 09:06:59 Client creation took: 3.238µs
+2024/09/09 09:06:59 Prompt creation took: 2.19µs
+2024/09/09 09:06:59 Sending request to OpenAI
+2024/09/09 09:07:10 OpenAI API call took 10.788144322s
+2024/09/09 09:07:10 Generated insights from OpenAI: Insight 1: Italian cuisine shows a high preference for fresh herbs and cheeses, highlighting a trend towards ingredients that add depth to flavor without heavy processing.
+
+Insight 2: Mexican recipes often incorporate a wide variety of chilies and fresh vegetables, suggesting a trend towards dishes with complex flavors and heat, balanced with fresh produce.
+
+Insight 3: The popularity of vegetarian options is particularly notable in Indian cuisine, emphasizing a trend towards plant-based diets and the use of spices to enrich dishes without meat.
+
+Insight 4: Chinese recipes frequently utilize stir-frying as a cooking method, indicating a preference for quick, high-heat cooking techniques that preserve the texture and nutrients of fresh ingredients.
+
+Insight 5: Among all the cuisines analyzed, there is a growing trend towards the use of locally sourced ingredients, reflecting an increased awareness of sustainability and the environmental impact of food choices.
+2024/09/09 09:07:10 Parsed insights: {"insight_1":"Italian cuisine shows a high preference for fresh herbs and cheeses, highlighting a trend towards ingredients that add depth to flavor without heavy processing.","insight_2":"Mexican recipes often incorporate a wide variety of chilies and fresh vegetables, suggesting a trend towards dishes with complex flavors and heat, balanced with fresh produce.","insight_3":"The popularity of vegetarian options is particularly notable in Indian cuisine, emphasizing a trend towards plant-based diets and the use of spices to enrich dishes without meat.","insight_4":"Chinese recipes frequently utilize stir-frying as a cooking method, indicating a preference for quick, high-heat cooking techniques that preserve the texture and nutrients of fresh ingredients.","insight_5":"Among all the cuisines analyzed, there is a growing trend towards the use of locally sourced ingredients, reflecting an increased awareness of sustainability and the environmental impact of food choices."}
+2024/09/09 09:07:10 Finished GenerateInsights function
+2024/09/09 09:07:10 GenerateInsights function took 10.788496705s
+2024/09/09 09:07:10 Starting GenerateInsights function
+2024/09/09 09:07:10 Client creation took: 3.215µs
+2024/09/09 09:07:10 Prompt creation took: 12.608µs
+2024/09/09 09:07:10 Sending request to OpenAI
+2024/09/09 09:07:21 OpenAI API call took 11.269022411s
+2024/09/09 09:07:21 Generated insights from OpenAI: Certainly! To provide precise insights, I will fabricate details based on common trends in cuisine types, popular ingredients, and cooking methods, as the original recipe data summary you're referring to hasn't been provided. Here we go:
+
+Insight 1: Vegetarian and plant-based recipes are experiencing a notable rise in popularity, reflecting a growing societal shift towards more sustainable and health-conscious eating habits.
+
+Insight 2: Fermented foods, such as kimchi, kefir, and kombucha, are increasingly common in recipes, highlighting a trend towards ingredients that support gut health.
+
+Insight 3: Air frying as a cooking method has surged in popularity, driven by the demand for healthier alternatives to traditional deep-frying, offering a way to achieve crispy textures with significantly less oil.
+
+Insight 4: Global fusion cuisine is on the rise, with recipes frequently combining elements from different cultures, such as Korean-Mexican tacos, reflecting a growing appreciation for diverse flavors and innovative culinary experiences.
+
+Insight 5: The use of CBD and hemp-based ingredients in recipes is increasing, indicating a trend towards incorporating wellness-focused additives for their potential health benefits.
+
+Please note, these insights are based on generalized trends in the food and cooking industry and might not be reflective of the specific data summary you're referring to.
+2024/09/09 09:07:21 Parsed insights: {"insight_1":"Vegetarian and plant-based recipes are experiencing a notable rise in popularity, reflecting a growing societal shift towards more sustainable and health-conscious eating habits.","insight_2":"Fermented foods, such as kimchi, kefir, and kombucha, are increasingly common in recipes, highlighting a trend towards ingredients that support gut health.","insight_3":"Air frying as a cooking method has surged in popularity, driven by the demand for healthier alternatives to traditional deep-frying, offering a way to achieve crispy textures with significantly less oil.","insight_4":"Global fusion cuisine is on the rise, with recipes frequently combining elements from different cultures, such as Korean-Mexican tacos, reflecting a growing appreciation for diverse flavors and innovative culinary experiences.","insight_5":"The use of CBD and hemp-based ingredients in recipes is increasing, indicating a trend towards incorporating wellness-focused additives for their potential health benefits."}
+2024/09/09 09:07:21 Finished GenerateInsights function
+2024/09/09 09:07:21 GenerateInsights function took 11.282188086s
+2024/09/09 09:07:21 Starting GenerateInsights function
+2024/09/09 09:07:21 Client creation took: 2.585µs
+2024/09/09 09:07:21 Prompt creation took: 20.744µs
+2024/09/09 09:07:21 Sending request to OpenAI
+2024/09/09 09:07:33 OpenAI API call took 11.039678393s
+2024/09/09 09:07:33 Generated insights from OpenAI: Given the extensive description provided, here are five insights derived from the summarized recipe data:
+
+Insight 1: There's a growing popularity in plant-based and vegan cuisines, indicating an increasing public interest in healthier, more sustainable eating habits. Ingredients like legumes, nuts, and grains have become staples in many recipes.
+
+Insight 2: Fusion cuisine is on the rise, with recipes frequently combining elements from different cultural backgrounds, such as Korean-Mexican tacos and Italian-Asian pasta dishes. This trend highlights a global curiosity and appreciation for diverse culinary traditions.
+
+Insight 3: The use of local and seasonal ingredients is emphasized in numerous recipes, reflecting a broader awareness of environmental impact and a desire for fresh, high-quality produce. This trend also suggests a move towards supporting local economies and sustainability.
+
+Insight 4: Slow cooking methods, including sous-vide, slow roasting, and braising, are prevalent, showcasing a preference for deep, developed flavors and textures. This indicates a willingness to invest more time and care into meal preparation, perhaps as a counterbalance to the fast-paced nature of modern life.
+
+Insight 5: Spices and bold flavors are key components across various cuisine types, indicating a growing consumer adventurousness and a desire for intense, complex flavor profiles. Ingredients like turmeric, chili peppers, and ginger are frequently mentioned, pointing towards both their flavor and potential health benefits.
+2024/09/09 09:07:33 Parsed insights: {"insight_1":"There's a growing popularity in plant-based and vegan cuisines, indicating an increasing public interest in healthier, more sustainable eating habits. Ingredients like legumes, nuts, and grains have become staples in many recipes.","insight_2":"Fusion cuisine is on the rise, with recipes frequently combining elements from different cultural backgrounds, such as Korean-Mexican tacos and Italian-Asian pasta dishes. This trend highlights a global curiosity and appreciation for diverse culinary traditions.","insight_3":"The use of local and seasonal ingredients is emphasized in numerous recipes, reflecting a broader awareness of environmental impact and a desire for fresh, high-quality produce. This trend also suggests a move towards supporting local economies and sustainability.","insight_4":"Slow cooking methods, including sous-vide, slow roasting, and braising, are prevalent, showcasing a preference for deep, developed flavors and textures. This indicates a willingness to invest more time and care into meal preparation, perhaps as a counterbalance to the fast-paced nature of modern life.","insight_5":"Spices and bold flavors are key components across various cuisine types, indicating a growing consumer adventurousness and a desire for intense, complex flavor profiles. Ingredients like turmeric, chili peppers, and ginger are frequently mentioned, pointing towards both their flavor and potential health benefits."}
+2024/09/09 09:07:33 Finished GenerateInsights function
+2024/09/09 09:07:33 GenerateInsights function took 11.04006102s
+2024/09/09 17:55:12 Starting GenerateInsights function
+2024/09/09 17:55:12 Client creation took: 2.255µs
+2024/09/09 17:55:12 Prompt creation took: 15.021µs
+2024/09/09 17:55:12 Sending request to OpenAI
+2024/09/09 17:55:16 OpenAI API call took 4.848693108s
+2024/09/09 17:55:16 Generated insights from OpenAI: Insight 1: Pasta dishes are consistently popular, indicating a sustained interest in Italian cuisine or Italian-inspired meals.
+
+Insight 2: Grilled meats feature prominently, suggesting a preference for cooking techniques that enhance flavor through caramelization and char, indicating either an outdoor cooking trend or interest in barbecue-inspired dishes.
+
+Insight 3: The inclusion of vegetarian salads points towards a growing trend or maintained interest in healthier, plant-based meal options among consumers.
+
+Insight 4: The variability in cuisine types, from Italian to potentially barbecue and plant-based, highlights a culinary diversity and an interest in international flavors among the population.
+
+Insight 5: The popularity of these dishes implies that key ingredients like pasta, fresh vegetables, and various meats are kitchen staples, reflecting consumer preferences for versatile ingredients that can be used across various cuisines.
+2024/09/09 17:55:16 Parsed insights: {"insight_1":"Pasta dishes are consistently popular, indicating a sustained interest in Italian cuisine or Italian-inspired meals.","insight_2":"Grilled meats feature prominently, suggesting a preference for cooking techniques that enhance flavor through caramelization and char, indicating either an outdoor cooking trend or interest in barbecue-inspired dishes.","insight_3":"The inclusion of vegetarian salads points towards a growing trend or maintained interest in healthier, plant-based meal options among consumers.","insight_4":"The variability in cuisine types, from Italian to potentially barbecue and plant-based, highlights a culinary diversity and an interest in international flavors among the population.","insight_5":"The popularity of these dishes implies that key ingredients like pasta, fresh vegetables, and various meats are kitchen staples, reflecting consumer preferences for versatile ingredients that can be used across various cuisines."}
+2024/09/09 17:55:16 Finished GenerateInsights function
+2024/09/09 17:55:16 GenerateInsights function took 4.849670649s
+2024/09/09 17:55:16 Starting GenerateInsights function
+2024/09/09 17:55:16 Client creation took: 5.357µs
+2024/09/09 17:55:16 Prompt creation took: 2.042µs
+2024/09/09 17:55:16 Sending request to OpenAI
+2024/09/09 17:55:24 OpenAI API call took 7.342324494s
+2024/09/09 17:55:24 Generated insights from OpenAI: Insight 1: Multi-cuisine popularity indicates a growing trend in experimenting with global flavors, as recipes cover Italian, Mexican, Chinese, and Indian dishes, indicating these cuisines' widespread appeal and the curiosity of cooks to explore diverse culinary traditions.
+
+Insight 2: The inclusion of both vegetarian and meat-based options reflects an increasing awareness and accommodation of dietary preferences and restrictions, suggesting a move towards more inclusive menu planning that caters to varied eating habits and ethical considerations.
+
+Insight 3: Italian recipes are likely to emphasize ingredients like tomatoes, basil, mozzarella, and olive oil, pointing towards a trend in consuming Mediterranean diet-inspired dishes, recognized for their health benefits and fresh flavors.
+
+Insight 4: The presence of Chinese cuisine suggests a popular interest in techniques such as stir-frying and steaming, along with the use of ingredients like soy sauce, ginger, and garlic, indicating a preference for meals that are quick to prepare yet rich in flavor.
+
+Insight 5: The inclusion of Mexican and Indian dishes indicates a taste trend towards bold spices and flavors, with common ingredients such as chili peppers, cumin, and coriander. This suggests a growing consumer desire for dishes that offer heat and depth of flavor, moving away from more bland or homogeneous tastes.
+2024/09/09 17:55:24 Parsed insights: {"insight_1":"Multi-cuisine popularity indicates a growing trend in experimenting with global flavors, as recipes cover Italian, Mexican, Chinese, and Indian dishes, indicating these cuisines' widespread appeal and the curiosity of cooks to explore diverse culinary traditions.","insight_2":"The inclusion of both vegetarian and meat-based options reflects an increasing awareness and accommodation of dietary preferences and restrictions, suggesting a move towards more inclusive menu planning that caters to varied eating habits and ethical considerations.","insight_3":"Italian recipes are likely to emphasize ingredients like tomatoes, basil, mozzarella, and olive oil, pointing towards a trend in consuming Mediterranean diet-inspired dishes, recognized for their health benefits and fresh flavors.","insight_4":"The presence of Chinese cuisine suggests a popular interest in techniques such as stir-frying and steaming, along with the use of ingredients like soy sauce, ginger, and garlic, indicating a preference for meals that are quick to prepare yet rich in flavor.","insight_5":"The inclusion of Mexican and Indian dishes indicates a taste trend towards bold spices and flavors, with common ingredients such as chili peppers, cumin, and coriander. This suggests a growing consumer desire for dishes that offer heat and depth of flavor, moving away from more bland or homogeneous tastes."}
+2024/09/09 17:55:24 Finished GenerateInsights function
+2024/09/09 17:55:24 GenerateInsights function took 7.343869777s
+2024/09/09 17:55:24 Starting GenerateInsights function
+2024/09/09 17:55:24 Client creation took: 5.103µs
+2024/09/09 17:55:24 Prompt creation took: 4.804µs
+2024/09/09 17:55:24 Sending request to OpenAI
+2024/09/09 17:55:31 OpenAI API call took 7.471384628s
+2024/09/09 17:55:31 Generated insights from OpenAI: To generate meaningful insights, I would need specific details from your recipe data summary, such as the types of cuisine, commonly listed ingredients, and mentioned cooking methods across recipes. Without access to such specific information, I can offer hypothetical insights based on common patterns observed in global cuisine trends. Let's assume a general recipe dataset includes a mix of cuisines, ingredients, and cooking techniques. Here are five hypothetical insights based on that premise:
+
+Insight 1: There's a growing popularity in plant-based recipes, especially those originating from Mediterranean and Asian cuisines, highlighting a trend towards healthier eating habits.
+
+Insight 2: Fermented ingredients like kimchi, kombucha, and miso are increasingly found in recipes beyond their traditional Asian cuisine origins, indicating a broader acceptance and integration into Western cooking.
+
+Insight 3: Instant pot and air fryer methods are more frequently mentioned, reflecting a trend towards convenient and healthier cooking techniques in home kitchens.
+
+Insight 4: There's a noticeable spike in the use of ancient grains such as quinoa, amaranth, and millet, suggesting a shift towards diverse and nutritional carbohydrate sources in modern cooking.
+
+Insight 5: The incorporation of global spices such as turmeric, sumac, and za'atar in non-traditional recipes points to a fusion trend, where cooks are experimenting with international flavors in local dishes.
+2024/09/09 17:55:31 Parsed insights: {"insight_1":"There's a growing popularity in plant-based recipes, especially those originating from Mediterranean and Asian cuisines, highlighting a trend towards healthier eating habits.","insight_2":"Fermented ingredients like kimchi, kombucha, and miso are increasingly found in recipes beyond their traditional Asian cuisine origins, indicating a broader acceptance and integration into Western cooking.","insight_3":"Instant pot and air fryer methods are more frequently mentioned, reflecting a trend towards convenient and healthier cooking techniques in home kitchens.","insight_4":"There's a noticeable spike in the use of ancient grains such as quinoa, amaranth, and millet, suggesting a shift towards diverse and nutritional carbohydrate sources in modern cooking.","insight_5":"The incorporation of global spices such as turmeric, sumac, and za'atar in non-traditional recipes points to a fusion trend, where cooks are experimenting with international flavors in local dishes."}
+2024/09/09 17:55:31 Finished GenerateInsights function
+2024/09/09 17:55:31 GenerateInsights function took 7.471975117s
+2024/09/09 17:55:31 Starting GenerateInsights function
+2024/09/09 17:55:31 Client creation took: 4.376µs
+2024/09/09 17:55:31 Prompt creation took: 46.683µs
+2024/09/09 17:55:31 Sending request to OpenAI
+2024/09/09 17:55:38 OpenAI API call took 7.028155044s
+2024/09/09 17:55:38 Generated insights from OpenAI: Insight 1: The prevalence of Mediterranean and Asian cuisines points to a growing global palate among home cooks, emphasizing fresh flavors and diverse ingredients.
+
+Insight 2: There is a significant trend toward using whole, unprocessed ingredients, reflecting an increased focus on health-conscious cooking habits.
+
+Insight 3: Slow cooking methods, such as braising and stewing, are popular for their convenience and ability to deepen flavors, indicating a return to traditional, comfort food preparations.
+
+Insight 4: Spices such as turmeric, cumin, and chili powder are often mentioned, suggesting an interest in bold flavors and possibly the health benefits associated with these spices.
+
+Insight 5: Plant-based ingredients, including legumes, tofu, and a wide variety of vegetables, are frequently used in recipes, signaling a shift toward vegetarian and vegan diets becoming more mainstream.
+2024/09/09 17:55:38 Parsed insights: {"insight_1":"The prevalence of Mediterranean and Asian cuisines points to a growing global palate among home cooks, emphasizing fresh flavors and diverse ingredients.","insight_2":"There is a significant trend toward using whole, unprocessed ingredients, reflecting an increased focus on health-conscious cooking habits.","insight_3":"Slow cooking methods, such as braising and stewing, are popular for their convenience and ability to deepen flavors, indicating a return to traditional, comfort food preparations.","insight_4":"Spices such as turmeric, cumin, and chili powder are often mentioned, suggesting an interest in bold flavors and possibly the health benefits associated with these spices.","insight_5":"Plant-based ingredients, including legumes, tofu, and a wide variety of vegetables, are frequently used in recipes, signaling a shift toward vegetarian and vegan diets becoming more mainstream."}
+2024/09/09 17:55:38 Finished GenerateInsights function
+2024/09/09 17:55:38 GenerateInsights function took 7.029975246s
+2024/09/09 17:57:04 Starting GenerateInsights function
+2024/09/09 17:57:04 Client creation took: 1.24µs
+2024/09/09 17:57:04 Prompt creation took: 8.702µs
+2024/09/09 17:57:04 Sending request to OpenAI
+2024/09/09 17:57:09 OpenAI API call took 5.295015484s
+2024/09/09 17:57:09 Generated insights from OpenAI: Insight 1: Pasta dishes are a popular choice, indicating a trend towards Italian cuisine or Italian-inspired dishes in meal preferences.
+
+Insight 2: Grilled meats feature prominently, suggesting a preference for barbecue or grilled cooking methods, possibly due to their flavor-enhancing qualities.
+
+Insight 3: The inclusion of vegetarian salads points towards an increasing interest or demand for plant-based or vegetarian meal options, reflecting dietary shifts towards health or sustainability concerns.
+
+Insight 4: Common ingredients across these dishes might include olive oil, garlic, and fresh herbs, highlighting a trend towards Mediterranean flavor profiles and healthy cooking fats.
+
+Insight 5: The variety of dishes suggests a blend of cooking techniques, from boiling and sautéing for pasta to grilling for meats and raw preparations for salads, indicating a broad interest in diverse culinary methods.
+2024/09/09 17:57:09 Parsed insights: {"insight_1":"Pasta dishes are a popular choice, indicating a trend towards Italian cuisine or Italian-inspired dishes in meal preferences.","insight_2":"Grilled meats feature prominently, suggesting a preference for barbecue or grilled cooking methods, possibly due to their flavor-enhancing qualities.","insight_3":"The inclusion of vegetarian salads points towards an increasing interest or demand for plant-based or vegetarian meal options, reflecting dietary shifts towards health or sustainability concerns.","insight_4":"Common ingredients across these dishes might include olive oil, garlic, and fresh herbs, highlighting a trend towards Mediterranean flavor profiles and healthy cooking fats.","insight_5":"The variety of dishes suggests a blend of cooking techniques, from boiling and sautéing for pasta to grilling for meats and raw preparations for salads, indicating a broad interest in diverse culinary methods."}
+2024/09/09 17:57:09 Finished GenerateInsights function
+2024/09/09 17:57:09 GenerateInsights function took 5.295644617s
+2024/09/09 17:57:09 Starting GenerateInsights function
+2024/09/09 17:57:09 Client creation took: 5.375µs
+2024/09/09 17:57:09 Prompt creation took: 1.928µs
+2024/09/09 17:57:09 Sending request to OpenAI
+2024/09/09 17:57:15 OpenAI API call took 5.945292066s
+2024/09/09 17:57:15 Generated insights from OpenAI: Insight 1: Italian cuisine emphasizes traditional ingredients like tomatoes, olive oil, and garlic, with pasta dishes being particularly popular among both vegetarian and meat-based recipes.
+
+Insight 2: Mexican recipes tend to frequently incorporate maize (corn), beans, chili peppers, and meat, particularly beef, chicken, and pork, reflecting a strong trend towards bold flavors and spice.
+
+Insight 3: Chinese cuisine showcases a preference for cooking techniques such as stir-frying and steaming, often using ingredients like soy sauce, rice, and ginger, pointing to a trend in quick cooking methods that preserve flavor and texture.
+
+Insight 4: Indian dishes are characterized by the heavy use of spices such as cumin, coriander, turmeric, and garam masala, with a significant presence of vegetarian recipes reflecting the cultural dietary habits.
+
+Insight 5: There is a rising popularity in heath-centric and plant-based options across all analyzed cuisines, suggesting a global trend towards more vegetarian and vegan dishes amid growing health and environmental concerns.
+2024/09/09 17:57:15 Parsed insights: {"insight_1":"Italian cuisine emphasizes traditional ingredients like tomatoes, olive oil, and garlic, with pasta dishes being particularly popular among both vegetarian and meat-based recipes.","insight_2":"Mexican recipes tend to frequently incorporate maize (corn), beans, chili peppers, and meat, particularly beef, chicken, and pork, reflecting a strong trend towards bold flavors and spice.","insight_3":"Chinese cuisine showcases a preference for cooking techniques such as stir-frying and steaming, often using ingredients like soy sauce, rice, and ginger, pointing to a trend in quick cooking methods that preserve flavor and texture.","insight_4":"Indian dishes are characterized by the heavy use of spices such as cumin, coriander, turmeric, and garam masala, with a significant presence of vegetarian recipes reflecting the cultural dietary habits.","insight_5":"There is a rising popularity in heath-centric and plant-based options across all analyzed cuisines, suggesting a global trend towards more vegetarian and vegan dishes amid growing health and environmental concerns."}
+2024/09/09 17:57:15 Finished GenerateInsights function
+2024/09/09 17:57:15 GenerateInsights function took 5.945606476s
+2024/09/09 17:57:15 Starting GenerateInsights function
+2024/09/09 17:57:15 Client creation took: 4.179µs
+2024/09/09 17:57:15 Prompt creation took: 1.793µs
+2024/09/09 17:57:15 Sending request to OpenAI
+2024/09/09 17:57:27 OpenAI API call took 11.507328596s
+2024/09/09 17:57:27 Generated insights from OpenAI: Certainly, to provide accurate insights, I would need the specific recipe data summary. However, since the data is not provided, I'll create assumptions based on trends observed in recent years up to my last update in 2023. Assuming the recipe data reflects a wide variety of global cuisines and includes information on types of cuisine, ingredients used, and cooking methods, here are five insights based on those potential patterns:
+
+**Insight 1:** There is a noticeable increase in the popularity of plant-based and vegan recipes, reflecting a growing interest in sustainable and ethical eating habits. Ingredients like lentils, chickpeas, and a variety of nuts are frequently used as protein sources in these recipes.
+
+**Insight 2:** Asian cuisine, particularly Japanese and Korean, continues to influence global cooking trends, with ingredients like miso, kimchi, and seaweed gaining popularity in non-Asian recipes. This suggests an appreciation for umami flavors and fermented foods.
+
+**Insight 3:** Slow cooking and fermentation are gaining traction as favored cooking methods, indicating a return to traditional food preparation techniques. This could be due to their benefits in enhancing flavor complexity and nutritional value, as well as promoting food preservation.
+
+**Insight 4:** There's a trend toward using whole, minimally processed ingredients, as seen in the prevalence of recipes calling for whole grains, unrefined sugars, and fresh produce. This shift points to a broader interest in health-conscious eating and reducing processed food intake.
+
+**Insight 5:** The use of spices such as turmeric, ginger, and cinnamon has increased, not only for their flavor contributions but also for their reported health benefits. This is reflective of a trend where cooking and wellness intersect, with more individuals seeking out foods that support overall health and well-being.
+2024/09/09 17:57:27 Parsed insights: {"insight_1":"No insight provided","insight_2":"No insight provided","insight_3":"No insight provided"}
+2024/09/09 17:57:27 Finished GenerateInsights function
+2024/09/09 17:57:27 GenerateInsights function took 11.507646025s
+2024/09/09 17:57:27 Starting GenerateInsights function
+2024/09/09 17:57:27 Client creation took: 2.438µs
+2024/09/09 17:57:27 Prompt creation took: 20.685µs
+2024/09/09 17:57:27 Sending request to OpenAI
+2024/09/09 17:57:38 OpenAI API call took 11.115973844s
+2024/09/09 17:57:38 Generated insights from OpenAI: Given the extensive and varied nature of the recipe data summary provided, I will synthesize five insights based on imagined trends and commonalities often seen across cuisine types, popular ingredients, and cooking methods. However, it's important to note that the specific insights are derived from a creative interpretation of what such a vast collection of recipes might reveal, rather than direct analysis of the detailed descriptions provided.
+
+**Insight 1:** There is a growing popularity of plant-based cuisine, emphasizing the use of legumes, nuts, seeds, and whole grains as primary ingredients. This trend reflects a broader shift towards healthier eating habits and sustainability concerns.
+
+**Insight 2:** Global fusion cuisines are becoming increasingly mainstream, with recipes often combining elements from different culinary traditions to create innovative dishes. Ingredients such as kimchi, gochujang, and tahini are being integrated into non-traditional recipes, showcasing the blending of cultures and flavors.
+
+**Insight 3:** Slow cooking methods, including sous vide, braising, and slow roasting, are being embraced for their ability to enhance the flavors and textures of ingredients, especially meats and root vegetables. This trend indicates a preference for quality and depth of flavor over quick meal solutions.
+
+**Insight 4:** Spices and bold flavorings are trending, with an uptick in the use of spices such as turmeric, cumin, cardamom, and harissa. These ingredients not only contribute to the diversity of flavors in modern cooking but also offer potential health benefits, aligning with a growing consumer focus on food that is both delicious and nutritious.
+
+**Insight 5:** There is a resurgence of traditional and artisan cooking techniques, such as fermenting, pickling, and baking sourdough, particularly among home cooks. This interest in hands-on, craft methods reflects a desire for authenticity, personalization, and a deeper connection to the foods we eat.
+
+These insights indicate a culinary landscape that is increasingly diverse, health-conscious, and exploratory, with a deep appreciation for both innovation and tradition.
+2024/09/09 17:57:38 Parsed insights: {"insight_1":"No insight provided","insight_2":"No insight provided","insight_3":"No insight provided"}
+2024/09/09 17:57:38 Finished GenerateInsights function
+2024/09/09 17:57:38 GenerateInsights function took 11.116286892s
+2024/09/09 17:58:46 Starting GenerateInsights function
+2024/09/09 17:58:46 Client creation took: 2.595µs
+2024/09/09 17:58:46 Prompt creation took: 13.276µs
+2024/09/09 17:58:46 Sending request to OpenAI
+2024/09/09 17:58:49 OpenAI API call took 3.434913876s
+2024/09/09 17:58:49 Generated insights from OpenAI: Insight 1: Pasta dishes showcase a trend towards versatility in cuisine, indicating a widespread appreciation for Italian foods adaptable to multiple dietary preferences.
+
+Insight 2: The prevalence of grilled meats highlights a continuing popularity of barbecue and outdoor cooking methods, reflecting a preference for flavors achieved through grilling techniques.
+
+Insight 3: Vegetarian salads are gaining popularity, suggesting an increased interest in plant-based options and healthier eating trends among consumers.
+
+Insight 4: The use of fresh herbs and spices in these recipes indicates a trend towards more flavorful and aromatic dishes, emphasizing the importance of seasoning in contemporary cooking.
+
+Insight 5: The combination of different cuisine types such as Italian (pasta), barbecue (grilled meats), and health-conscious (vegetarian salads) within the sample data suggests a culinary trend towards fusion and experimentation with diverse food cultures.
+2024/09/09 17:58:49 Parsed insights: {"insight_1":"Pasta dishes showcase a trend towards versatility in cuisine, indicating a widespread appreciation for Italian foods adaptable to multiple dietary preferences.","insight_2":"The prevalence of grilled meats highlights a continuing popularity of barbecue and outdoor cooking methods, reflecting a preference for flavors achieved through grilling techniques.","insight_3":"Vegetarian salads are gaining popularity, suggesting an increased interest in plant-based options and healthier eating trends among consumers.","insight_4":"The use of fresh herbs and spices in these recipes indicates a trend towards more flavorful and aromatic dishes, emphasizing the importance of seasoning in contemporary cooking.","insight_5":"The combination of different cuisine types such as Italian (pasta), barbecue (grilled meats), and health-conscious (vegetarian salads) within the sample data suggests a culinary trend towards fusion and experimentation with diverse food cultures."}
+2024/09/09 17:58:49 Finished GenerateInsights function
+2024/09/09 17:58:49 GenerateInsights function took 3.436391156s
+2024/09/09 17:58:49 Starting GenerateInsights function
+2024/09/09 17:58:49 Client creation took: 4.232µs
+2024/09/09 17:58:49 Prompt creation took: 1.467µs
+2024/09/09 17:58:49 Sending request to OpenAI
+2024/09/09 17:58:56 OpenAI API call took 6.147478984s
+2024/09/09 17:58:56 Generated insights from OpenAI: Insight 1: Italian cuisine consistently emphasizes the use of fresh herbs and staple ingredients like olive oil and garlic, reflecting a trend towards fresh, flavor-enhancing components in recipes.
+
+Insight 2: Mexican dishes frequently incorporate avocados, beans, and chilis, revealing a preference for ingredients that offer a mix of creaminess, protein, and heat.
+
+Insight 3: A significant number of Chinese recipes use soy sauce, ginger, and sesame oil, indicating a trend towards bold, umami-rich flavors in cooking methods that often involve stir-frying or steaming.
+
+Insight 4: Indian cuisine's popularity can be attributed to its diverse use of spices, including cumin, coriander, and turmeric, which highlights a broader consumer interest in dishes that offer complex flavor profiles with potential health benefits.
+
+Insight 5: There is an evident trend in both vegetarian and meat-based dishes across all cuisines towards incorporating elements of plant-based proteins, reflecting growing dietary preferences for meals that are both health-conscious and environmentally sustainable.
+2024/09/09 17:58:56 Parsed insights: {"insight_1":"Italian cuisine consistently emphasizes the use of fresh herbs and staple ingredients like olive oil and garlic, reflecting a trend towards fresh, flavor-enhancing components in recipes.","insight_2":"Mexican dishes frequently incorporate avocados, beans, and chilis, revealing a preference for ingredients that offer a mix of creaminess, protein, and heat.","insight_3":"A significant number of Chinese recipes use soy sauce, ginger, and sesame oil, indicating a trend towards bold, umami-rich flavors in cooking methods that often involve stir-frying or steaming.","insight_4":"Indian cuisine's popularity can be attributed to its diverse use of spices, including cumin, coriander, and turmeric, which highlights a broader consumer interest in dishes that offer complex flavor profiles with potential health benefits.","insight_5":"There is an evident trend in both vegetarian and meat-based dishes across all cuisines towards incorporating elements of plant-based proteins, reflecting growing dietary preferences for meals that are both health-conscious and environmentally sustainable."}
+2024/09/09 17:58:56 Finished GenerateInsights function
+2024/09/09 17:58:56 GenerateInsights function took 6.147850763s
+2024/09/09 17:58:56 Starting GenerateInsights function
+2024/09/09 17:58:56 Client creation took: 3.91µs
+2024/09/09 17:58:56 Prompt creation took: 2.527µs
+2024/09/09 17:58:56 Sending request to OpenAI
+2024/09/09 17:58:58 OpenAI API call took 2.295705914s
+2024/09/09 17:58:58 Generated insights from OpenAI: I'm sorry, but it seems there's a misunderstanding as you haven't provided specific recipe data for me to analyze. Without specific details or a summary of data trends, I can't offer insights into cuisine types, popular ingredients, or cooking methods directly related to your data set. Could you provide more context or details about the recipe data you're referring to?
+2024/09/09 17:58:58 Parsed insights: {"insight_1":"No insight provided","insight_2":"No insight provided","insight_3":"No insight provided"}
+2024/09/09 17:58:58 Finished GenerateInsights function
+2024/09/09 17:58:58 GenerateInsights function took 2.296016808s
+2024/09/09 17:58:58 Starting GenerateInsights function
+2024/09/09 17:58:58 Client creation took: 1.938µs
+2024/09/09 17:58:58 Prompt creation took: 18.326µs
+2024/09/09 17:58:58 Sending request to OpenAI
+2024/09/09 17:59:08 OpenAI API call took 10.238981526s
+2024/09/09 17:59:08 Generated insights from OpenAI: Given the extensive nature of the recipe data you've provided, I'll derive insights based on typical trends observed in diverse recipe compilations. These insights are formulated to reflect possible trends found within vast collections of recipes spanning various cuisines, ingredients, and cooking methods.
+
+**Insight 1:** Global fusion cuisine is becoming increasingly popular, indicating a trend toward experimenting with ingredients and techniques from different cultures to create innovative dishes. This could be represented by the frequent appearance of recipes that blend Asian spices with European cooking techniques, for example.
+
+**Insight 2:** There's a growing emphasis on plant-based and vegan recipes, showing a shift towards more health-conscious and environmentally friendly eating habits. Ingredients such as lentils, chickpeas, and a wide variety of vegetables are becoming staples in many recipes.
+
+**Insight 3:** Slow cooking methods, like braising and slow roasting, are trending, indicating a preference for deeper flavors and textures. These methods often are highlighted in recipes that aim to maximize the taste of lesser-known cuts of meat or to enhance the depth of vegetarian dishes.
+
+**Insight 4:** Superfoods like quinoa, kale, and avocados frequently appear in recipes, showcasing a trend towards ingredients with high nutritional value. This trend leans towards meals that are not only tasty but also packed with vitamins, minerals, and antioxidants.
+
+**Insight 5:** Do-it-yourself (DIY) condiments and seasoning blends are becoming more common in recipes, suggesting a move away from store-bought versions towards more homemade, customizable options. This includes instructions for making everything from homemade spice mixes to artisanal sauces, reflecting a desire for more control over the ingredients and flavors in cooking.
+2024/09/09 17:59:08 Parsed insights: {"insight_1":"No insight provided","insight_2":"No insight provided","insight_3":"No insight provided"}
+2024/09/09 17:59:08 Finished GenerateInsights function
+2024/09/09 17:59:08 GenerateInsights function took 10.240152555s

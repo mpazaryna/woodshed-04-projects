@@ -1,0 +1,45 @@
+[INFO] 2025-01-02T16:00:27.071Z: Starting script analysis
+[INFO] 2025-01-02T16:00:27.099Z: Reading script: ./data/seinfeld.md
+[INFO] 2025-01-02T16:00:27.102Z: Read 21578 characters
+[INFO] 2025-01-02T16:00:27.102Z: Content length: 21578, Minimum required: 1000
+[INFO] 2025-01-02T16:00:27.107Z: Generated formatted prompt
+[INFO] 2025-01-02T16:00:27.123Z: Prompt preview: Below is a complete sitcom script for analysis:
+
+# Season 8, Episode #135
+
+[First scene.
+The cemeter...
+[INFO] 2025-01-02T16:00:27.136Z: Initialized LLM service
+[INFO] 2025-01-02T16:00:46.636Z: Generated analysis content
+[INFO] 2025-01-02T16:00:46.639Z: Created output directory: output/33d05bfd-analysis
+[INFO] 2025-01-02T16:00:46.640Z: Analysis completed and saved to: output/33d05bfd-analysis
+[INFO] 2025-01-02T16:06:00.531Z: Starting script analysis
+[INFO] 2025-01-02T16:06:00.533Z: Reading script: ./data/seinfeld.md
+[INFO] 2025-01-02T16:06:00.534Z: Read 21578 characters
+[INFO] 2025-01-02T16:06:00.534Z: Content length: 21578, Minimum required: 1000
+[INFO] 2025-01-02T16:06:00.540Z: Generated formatted prompt
+[INFO] 2025-01-02T16:06:00.541Z: Prompt preview: Below is a complete sitcom script for analysis:
+
+# Season 8, Episode #135
+
+[First scene.
+The cemeter...
+[INFO] 2025-01-02T16:06:00.543Z: Initialized LLM service
+[INFO] 2025-01-02T16:06:15.562Z: Generated analysis content
+[INFO] 2025-01-02T16:06:15.565Z: Created output directory: output/ea776dde-analysis
+[INFO] 2025-01-02T16:06:15.568Z: Analysis completed and saved to: output/ea776dde-analysis
+[INFO] 2025-01-02T16:08:48.462Z: Starting script analysis
+[INFO] 2025-01-02T16:08:48.468Z: Reading script: ./data/seinfeld.md
+[INFO] 2025-01-02T16:08:48.469Z: Read 21578 characters
+[INFO] 2025-01-02T16:08:48.469Z: Content length: 21578, Minimum required: 1000
+[INFO] 2025-01-02T16:08:48.471Z: Generated formatted prompt
+[INFO] 2025-01-02T16:08:48.473Z: Prompt preview: Below is a complete sitcom script for analysis:
+
+# Season 8, Episode #135
+
+[First scene.
+The cemeter...
+[INFO] 2025-01-02T16:08:48.478Z: Initialized LLM service
+[INFO] 2025-01-02T16:09:13.904Z: Generated analysis content
+[INFO] 2025-01-02T16:09:13.918Z: Created output directory: output/05ce8539-analysis
+[INFO] 2025-01-02T16:09:13.927Z: Analysis completed and saved to: output/05ce8539-analysis
