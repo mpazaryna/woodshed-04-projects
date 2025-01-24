@@ -1,5 +1,7 @@
+/// <reference lib="deno.ns" />
+
 // main.ts
-import { load } from "https://deno.land/std/dotenv/mod.ts";
+import { load } from "https://deno.land/std@0.207.0/dotenv/mod.ts";
 
 // Configuration constants
 const DAYS_LOOKBACK = 7;  // Number of days to look back for the report
@@ -442,6 +444,7 @@ class GitHubProjectsSummary {
 async function main() {
   try {
     const env = await load();
+    console.log("Loaded environment variables:", env);
     
     const githubToken = env["GITHUB_TOKEN"];
     const anthropicKey = env["ANTHROPIC_API_KEY"];
